@@ -1,0 +1,1 @@
+import "./globals.css";export const metadata={title:"Cherry Zoda - UMAMI SEED CO"};export default function Layout({children}){return <html><body>{children}</body></html>}
